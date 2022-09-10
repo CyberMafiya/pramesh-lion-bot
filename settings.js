@@ -1,4 +1,4 @@
-//☬༒𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙡𝙞𝙤𝙣⃕ 𝙗𝙤𝙩༒//
+//BlackQueen//
 //code by pramesh nilakshan//
 //මෙමෙ bot ඔබට ගොඩක් ප්‍රයෝජනවත් bot කෙනෙකි//
 //i am pramesh //
@@ -43,23 +43,23 @@ global.ownername = "𝙥𝙧𝙖𝙢𝙚𝙨𝙝 𝙣𝙞𝙡𝙖𝙠𝙨𝙝�
 //මේව වෙනස් කරන්න පුලුවන්😊
 global.owner = ['94704472592']
 global.ownertag = '94704472592' //මේ නම්බර් එකට ඔයාගෙ නම්බර එක දාගන්න කව්රුහරි මේකෙ masege  එකක් tag කරාම sticker එනව
-global.botscript = 'https://chat.whatsapp.com/E3enguWGKzLJT0PES2AhrY' //group link
+global.botscript = 'https://wa.me/94741209621' //group link
 
 global.socialm = "GitHub: lion" //ur github or insta name
 global.location = "srilanka,colombo" //ur location
 // මෙතනින් යට මොනවත් වෙනස් කරන්න එපා 🚫⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 //වැඩ කරන්නෙ නැතුව යනව
-//☬༒𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙡𝙞𝙤𝙣⃕ 𝙗𝙤𝙩༒//
+//BlackQueen//
 
-global.linkz = "https://youtube.com/channel/UCOlt2_XK6tS2KJn6fTdpPew" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCOlt2_XK6tS2KJn6fTdpPew" //ur website to be displayed
-global.reactmoji = "🦁" //ur menu react emoji code lock🔒
-global.themeemoji = "🦁" //ur theme emoji code lock 🔒
+global.linkz = "https://youtube.com/channel/DinuxBro" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/DinuxBro" //ur website to be displayed
+global.reactmoji = "亗" //ur menu react emoji code lock🔒
+global.themeemoji = "亗" //ur theme emoji code lock 🔒
 prefix = "☞"//Menu comand star☞
-global.packname = "☬༒𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙡𝙞𝙤𝙣⃕ 𝙗𝙤𝙩༒" //ur sticker watermark packname code lock 🔒
-global.author = "☬༒𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙡𝙞𝙤𝙣⃕ 𝙗𝙤𝙩༒" //ur sticker watermark author code lock 🔒
-global.botname = '☬༒𝙥𝙧𝙖𝙢𝙚𝙨𝙝༆𝙡𝙞𝙤𝙣⃕ 𝙗𝙤𝙩༒' //code lock 🔒
-global.ytname = "pramesh lion bot tech" // code lock 🔒
+global.packname = "BlackQueen" //ur sticker watermark packname code lock 🔒
+global.author = "BlackQueen" //ur sticker watermark author code lock 🔒
+global.botname = 'BlackQueen' //code lock 🔒
+global.ytname = "👑BLACK QUEEN✨ bot tech" // code lock 🔒
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -68,7 +68,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94741209621'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -91,7 +91,7 @@ global.ntilink = []
 //omther
 global.sessionName = 'session'
 global.antitags = true
-global.prefa = ['','!','.','🦁','⚙️','✅']
+global.prefa = ['','!','.','亗','⚙️','✅']
 global.sp = '⭔'
 global.mess = {
     success: 'හරි ✅',
